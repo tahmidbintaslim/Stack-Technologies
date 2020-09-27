@@ -2,7 +2,7 @@
 we are going to make the stack in easy to hard sorting----
 1. LAMP (Linux, Apache, MySQL, PHP)
 2. MEAN (MongoDB, ExpressJS, AngularJS, nodeJS)
-METEOR
-DJANGO
-RUBY ON RAILS
-JAVA + SPRING (THE LIGHTWEIGHT STACK)
+3. METEOR
+4. DJANGO
+5. RUBY ON RAILS
+6. JAVA + SPRING (THE LIGHTWEIGHT STACK)
